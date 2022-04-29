@@ -1,5 +1,6 @@
 # Filament Joiner
 
+//All Rights go to the original owner of this project (Victor Chew)
 Code for setting up and driving a 3D printer hotend rigged up to an Arduino to provide a temperature-controlled platform for joining 3D filaments. Filaments joined this way have a strong and non-brittle bond compared to using uncontrolled heat sources such as a candle or lighter.
 
 - [Video demo](https://youtu.be/rC_HjhM3sgA)
